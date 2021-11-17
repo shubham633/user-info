@@ -1,0 +1,64 @@
+{
+  "UserData": [
+    {
+      "name": "shubham",
+      "dob": "30/08/1998",
+      "profession": "software engineer",
+      "address": "up"
+    },
+    {
+      "name": "vishal",
+      "dob": "31/08/1998",
+      "profession": "software engineer",
+      "address": "delhi"
+    },
+    {
+      "name": "harsh",
+      "dob": "30/07/1998",
+      "profession": "software engineer",
+      "address": "up"
+    },
+    {
+      "name": "mohit",
+      "dob": "30/08/1999",
+      "profession": "student",
+      "address": "haryana"
+    },
+    {
+      "name": "shivam",
+      "dob": "01/02/1998",
+      "profession": "doctor",
+      "address": "punjab"
+    },
+    {
+      "name": "rishi",
+      "dob": "30/08/1996",
+      "profession": "nurse",
+      "address": "chanigarh"
+    },
+    {
+      "name": "sulabh",
+      "dob": "30/08/2000",
+      "profession": "student",
+      "address": "andrha pradesh"
+    },
+    {
+      "name": "shashank",
+      "dob": "30/02/1998",
+      "profession": "mechanical engineer",
+      "address": "up"
+    },
+    {
+      "name": "amit",
+      "dob": "30/08/1998",
+      "profession": "software engineer",
+      "address": "up"
+    },
+    {
+      "name": "aman",
+      "dob": "23/11/1995",
+      "profession": "singer",
+      "address": "mumbai"
+    }
+  ]
+}
